@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\bin\Debug\net8.0\RandomSinifi_Ornekler.exe
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\bin\Debug\net8.0\RandomSinifi_Ornekler.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\bin\Debug\net8.0\RandomSinifi_Ornekler.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\bin\Debug\net8.0\RandomSinifi_Ornekler.dll
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\bin\Debug\net8.0\RandomSinifi_Ornekler.pdb
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.dll
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\refint\RandomSinifi_Ornekler.dll
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.pdb
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\RandomSinifi_Ornekler.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\RandomSinifi\RandomSinifi_Ornekler\obj\Debug\net8.0\ref\RandomSinifi_Ornekler.dll
